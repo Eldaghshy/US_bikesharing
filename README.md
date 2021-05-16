@@ -10,3 +10,5 @@ Filter scheme is by: Day, Month, both or no filters at all.
 Then the anaylsis starts by taking your inputs and depending on them the program show you the most frequent day hour of sharing the bike,
 most frequent starting point and ending point and even the most common trip and it even shows the user the duration and genders of the users, they are subscribers or not and so on.
 The users' info isn't availabe only in the Washington dataset.
+
+In addition to that, I made the program capable of asking the user if he/she wants to view 5 rows of the dataset or not, if yes it asks if the user wants to see more and asks the user if he/she wants to restart the program and investigate in a different way with a different dataset or different filters.
